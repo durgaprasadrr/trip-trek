@@ -94,23 +94,4 @@ Sample body:
   "name": "Durga",
   "email": "example@gmail.com"
 }
-✨ Future Enhancements
-MongoDB integration
 
-Admin dashboard
-
-Authentication
-
-Booking history
-
-Payment gateway
-
-📜 License
-Open-source for learning and portfolio use.
-
-yaml
-Copy code
-
----
-
-# 🟢 **README for Project 2 — AI Resume Analyzer**
